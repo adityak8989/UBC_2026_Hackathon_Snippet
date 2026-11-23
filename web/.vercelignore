@@ -1,0 +1,7 @@
+# Never upload local env files or build output to Vercel; env vars are set in the Vercel project.
+.env*
+!.env.example
+.next
+node_modules
+# Raw incoming clips (gitignored too; the masters the site serves are in public/clips)
+incoming

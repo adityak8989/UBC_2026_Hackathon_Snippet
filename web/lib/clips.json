@@ -1,0 +1,202 @@
+{
+  "clips": [
+    {
+      "id": "clip-1",
+      "clipIdBytes32": "0x9584457997a664eed0a88667c6e268f47e93beb8fa9f00af17fca5228170a7fd",
+      "title": "Pacific Ocean Swell & Coastal Cliffs",
+      "description": "Cinematic aerial footage of rolling turquoise ocean waves crashing against golden hour coastal cliffs.",
+      "show": "Earth in Motion",
+      "contentType": "original",
+      "speaker": "",
+      "contributorName": "Sound Design & Color",
+      "duration": "0:28",
+      "videoUrl": "/clips/clip1.mp4",
+      "previewUrl": "/clips/preview/clip1.mp4",
+      "posterUrl": "/clips/posters/clip1.jpg",
+      "fileHash": "0xed770ac420e933f25434c5ad07ae73d8f446a48af6b3eeb4fad069f4a0bcfa47",
+      "prices": {
+        "editorial": 5,
+        "social": 15,
+        "commercial": 50
+      },
+      "split": {
+        "rightsHolderBps": 7000,
+        "contributorBps": 2000,
+        "platformBps": 1000
+      },
+      "active": false
+    },
+    {
+      "id": "clip-2",
+      "clipIdBytes32": "0x76d3ab437960819271e93704814b9ce221e7d84c5a6bf6e5840e6d6d562cc835",
+      "title": "Cascading Mountain Waterfall",
+      "description": "Pristine alpine stream plunging over mossy canyon rocks in a lush temperate rainforest sanctuary.",
+      "show": "Earth in Motion",
+      "contentType": "original",
+      "speaker": "",
+      "contributorName": "Field Audio Capture",
+      "duration": "0:30",
+      "videoUrl": "/clips/clip2.mp4",
+      "previewUrl": "/clips/preview/clip2.mp4",
+      "posterUrl": "/clips/posters/clip2.jpg",
+      "fileHash": "0x18cf7f14d9f9abf2f014ceaafc449cb5fce309f21eff227b3b0d439090de0245",
+      "prices": {
+        "editorial": 5,
+        "social": 15,
+        "commercial": 50
+      },
+      "split": {
+        "rightsHolderBps": 7000,
+        "contributorBps": 2000,
+        "platformBps": 1000
+      },
+      "active": false
+    },
+    {
+      "id": "clip-3",
+      "clipIdBytes32": "0xe3c4ea9e8aa23f20c3aba6205a5b6da9c124e33d0886290021235e619e93e220",
+      "title": "Vibrant Coral Reef & Tropical Marine Life",
+      "description": "Crystal clear underwater capture of schooling reef fish navigating colourful coral gardens and deep blue waters.",
+      "show": "Earth in Motion",
+      "contentType": "original",
+      "speaker": "",
+      "contributorName": "Marine Photography",
+      "duration": "0:14",
+      "videoUrl": "/clips/clip3.mp4",
+      "previewUrl": "/clips/preview/clip3.mp4",
+      "posterUrl": "/clips/posters/clip3.jpg",
+      "fileHash": "0x09f4a1563d66df5da733b9c72d15e7f10f2aa7430c6020d6a1116979b67057f5",
+      "prices": {
+        "editorial": 5,
+        "social": 15,
+        "commercial": 50
+      },
+      "split": {
+        "rightsHolderBps": 9000,
+        "contributorBps": 0,
+        "platformBps": 1000
+      },
+      "active": false
+    },
+    {
+      "id": "clip-4",
+      "clipIdBytes32": "0x2ffcc95b6a5f487325f9ec0c4780cf11c0f3186a7b1bbb0e7c465e39c4148646",
+      "title": "The Final Push",
+      "quote": "Yeah, just go. Just go do it.",
+      "creator": "spacelofi",
+      "description": "A laugh, a spotted enemy, then the call to push: “Oh, wait, there’s someone. Yeah, just go. Just go do it.”",
+      "show": "Call of Duty: Modern Warfare II",
+      "contentType": "gameplay",
+      "publisher": "Activision",
+      "speaker": "SpaceLofi",
+      "contributorName": "SpaceLofi",
+      "duration": "0:12",
+      "videoUrl": "/clips/clip4.mp4",
+      "previewUrl": "/clips/preview/clip4.mp4",
+      "posterUrl": "/clips/posters/clip4.jpg",
+      "fileHash": "0x496935ee56fe54fd808ca2695d80b45d1c2012b905f038b7059657542b95ae02",
+      "prices": {
+        "editorial": 5,
+        "social": 15,
+        "commercial": 0
+      },
+      "split": {
+        "rightsHolderBps": 9000,
+        "contributorBps": 0,
+        "platformBps": 1000
+      },
+      "priceNotes": {
+        "commercial": "Commercial use requires the game publisher’s permission"
+      }
+    },
+    {
+      "id": "clip-5",
+      "clipIdBytes32": "0xdc8701308d2fb31bf986706e31e9b37617f0651f1de2c9708a8e5d23141262d4",
+      "title": "Into the Ice Hunt",
+      "creator": "spacelofi",
+      "description": "Six seconds of a hunt carried by dramatic music, with no commentary. Licensed as footage and sound only.",
+      "show": "Monster Hunter: World",
+      "contentType": "gameplay",
+      "publisher": "Capcom",
+      "speaker": "SpaceLofi",
+      "contributorName": "SpaceLofi",
+      "duration": "0:06",
+      "videoUrl": "/clips/clip5.mp4",
+      "previewUrl": "/clips/preview/clip5.mp4",
+      "posterUrl": "/clips/posters/clip5.jpg",
+      "fileHash": "0xf99e2a4421068a9f1f28da6f53086947e908fc9e9e67c78cd4942152bd9f7280",
+      "prices": {
+        "editorial": 5,
+        "social": 15,
+        "commercial": 0
+      },
+      "split": {
+        "rightsHolderBps": 9000,
+        "contributorBps": 0,
+        "platformBps": 1000
+      },
+      "priceNotes": {
+        "commercial": "Commercial use requires the game publisher’s permission"
+      },
+      "active": false
+    },
+    {
+      "id": "clip-7",
+      "clipIdBytes32": "0xf7487361e7ae4062ecc6c3ef6d563558bf5b03f1904cfd22ce2247fea7cb3636",
+      "title": "Clipping on the Blockchain",
+      "quote": "This app called Snippet. I've been using it all for my clipping content.",
+      "creator": "spacelofi",
+      "description": "SpaceLofi on the new apps bringing blockchain into everyday tools, and using Snippet for clipping content.",
+      "show": "Podcast",
+      "contentType": "original",
+      "speaker": "",
+      "contributorName": "Esteban (producer)",
+      "duration": "0:10",
+      "videoUrl": "/clips/clip7.mp4",
+      "previewUrl": "/clips/preview/clip7.mp4",
+      "posterUrl": "/clips/posters/clip7.jpg",
+      "fileHash": "0x4ba040c4a36f489b6c42e2e2e0bed8eb9386f95ac893efa64e9db1c6a5991a34",
+      "prices": {
+        "editorial": 5,
+        "social": 15,
+        "commercial": 50
+      },
+      "split": {
+        "rightsHolderBps": 7000,
+        "contributorBps": 2000,
+        "platformBps": 1000
+      }
+    },
+    {
+      "id": "clip-6",
+      "clipIdBytes32": "0xdbee7c1deb9b8ee88148df362f46e20f7043e32f5421ca2310eb1958c75eb8ba",
+      "title": "Outgunned by Marshals",
+      "quote": "We're losing to Marshalls. Oh my God.",
+      "creator": "spacelofi",
+      "description": "Gunfire, then the realization: “We’re losing to Marshals. Oh my God.”",
+      "show": "Valorant",
+      "contentType": "gameplay",
+      "publisher": "Riot Games",
+      "speaker": "SpaceLofi",
+      "contributorName": "SpaceLofi",
+      "duration": "0:13",
+      "videoUrl": "/clips/clip6.mp4",
+      "previewUrl": "/clips/preview/clip6.mp4",
+      "posterUrl": "/clips/posters/clip6.jpg",
+      "fileHash": "0xc9bedc47e1eaf31daa1f529caa5f0950d9910464f1618eda80fcec9eb26999f8",
+      "prices": {
+        "editorial": 5,
+        "social": 15,
+        "commercial": 0
+      },
+      "split": {
+        "rightsHolderBps": 9000,
+        "contributorBps": 0,
+        "platformBps": 1000
+      },
+      "priceNotes": {
+        "commercial": "Commercial use requires the game publisher’s permission"
+      }
+    }
+  ]
+}
